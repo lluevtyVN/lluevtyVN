@@ -1,7 +1,5 @@
 # Xin chào! Mình là lluevtyVN 👋
 
-![Avatar của tôi](https://github.com/lluevtyVN.png)
-
 ## 👨‍💻 Giới thiệu
 Mình là [lluevtyVN] — một người yêu thích lập trình và phát triển phần mềm.
 
