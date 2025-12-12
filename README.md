@@ -12,8 +12,6 @@ Mình là [lluevtyVN] — một người yêu thích lập trình và phát tri�
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lluevtyVN&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lluevtyVN&layout=compact&theme=tokyonight)
 
-(Tip: đổi link và mô tả cho từng project bạn muốn nổi bật)
-
 ## ✉️ Liên hệ
 - Email: lluevtymod@gmail.com
 - Telegram: @lluevty
